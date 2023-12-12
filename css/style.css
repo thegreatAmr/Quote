@@ -1,0 +1,23 @@
+body{
+    background: linear-gradient(rgb(65, 65, 141),rgb(0, 0, 0)) ;
+    background-repeat: no-repeat;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+button{
+    background-color: rgb(242, 239, 239);
+    border: none;
+    padding: 1.5625rem 2rem;
+}
+button:hover{
+    background-color: rgb(214, 214, 195);
+  
+}
+i{
+    font-size: 1.5625rem;
+    color: rgb(217, 217, 217)
+}
+p{
+    color: #FFB421;
+
+}
